@@ -48,17 +48,18 @@ Other details that need to be given while starting out with the project can be p
 >*  Intel oneAPI Cloud Platform
 >* Intel optimized Python
 >* Intel oneAPI AI Analytics Toolkit
+>* Intel Tensorflow
 >* Fast API
+>* Uvicorn
+>* AWS EC2 Instance
 >* Kotlin
->* Android Studio
->* AWS Cloud Server
 
 ## Model Training :
 > The Machine Learning Model is trained using Convolutional Neural Network and is trained in the Intel oneAPI Cloud Platform.
 
 ## Deployment :
 
->The Model is deployed in Amazon Web Service Cloud Platform using Fast API which is connecting to a GUI Android Application which is given in the Drive link given above.
+>The Model is deployed in AWS EC2 platform using Ngnix server.
 
 ## Acknowledgments :
 
