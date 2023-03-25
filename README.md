@@ -65,6 +65,9 @@ Other details that need to be given while starting out with the project can be p
 
 The complete Dataset was taken from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
+## Our API :
+You can upload potato leaf's image and test response here - http://65.0.74.234/docs
+
 ## Authors :
 
 >#### Arka Prabha Chakraborty : [GitHub_Profile](https://github.com/arka-2204)
