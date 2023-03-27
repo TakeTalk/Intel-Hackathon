@@ -74,7 +74,7 @@ You can upload potato leaf's image and test response here - http://65.0.74.234/d
 >#### Arka Prabha Chakraborty : [GitHub_Profile](https://github.com/arka-2204)
 >#### Anik Dutta : [GitHub_Profile](https://github.com/anik0810)
 >#### Sanmay Das : [GitHub_Profile](https://github.com/sanmay321)
->#### Sanmoy Dam : [GitHub_Profile](https://github.com/Sanmoy-2002)
+>#### Sanmoy Dam : [GitHub_Profile](https://github.com/sanmoydam)
 
 [//]: # (HyperLinks)
 
