@@ -7,6 +7,7 @@
 
 ## Frontend Repository Link : [Click here](https://github.com/TakeTalk/potato-frontend)
 ## Chcek out the .APK File of the Android Application : [Click here](https://drive.google.com/drive/folders/1geM-8F7syNjUUHjNwwDO6axypwL_EMJO?usp=share_link)
+## Chcek out the Documentation of the whole Project : [Click here](https://medium.com/@sanmoydam/potato-disease-detector-using-tensorflow-intel-oneapi-toolkit-hack-ml-a42a8906764a)
 
 <br>
 
